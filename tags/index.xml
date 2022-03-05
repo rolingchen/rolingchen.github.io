@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 極簡筆記</title>
+    <link>https://rolingchen.github.io/tags/</link>
+    <description>Recent content in Tags on 極簡筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 10 Apr 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Line Sticker</title>
+      <link>https://rolingchen.github.io/tags/line-sticker/</link>
+      <pubDate>Sat, 10 Apr 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/line-sticker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>貼圖</title>
+      <link>https://rolingchen.github.io/tags/%E8%B2%BC%E5%9C%96/</link>
+      <pubDate>Sat, 10 Apr 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/%E8%B2%BC%E5%9C%96/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

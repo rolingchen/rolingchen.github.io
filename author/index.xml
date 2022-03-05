@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on 極簡筆記</title>
+    <link>https://rolingchen.github.io/author/</link>
+    <description>Recent content in Author on 極簡筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 26 Jan 2021 10:13:00 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roling Chen</title>
+      <link>https://rolingchen.github.io/author/roling-chen/</link>
+      <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/author/roling-chen/</guid>
+      <description>貓派，喜歡閱讀心理、科普、科技、筆記術、理財書籍，最近兩年迷上極簡，正在努力中，偶而畫圖</description>
+    </item>
+    
+  </channel>
+</rss>
