@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on 極簡筆記</title>
+    <title>Blog on Bookworm - Personal Blog Template</title>
     <link>https://rolingchen.github.io/blog/</link>
-    <description>Recent content in Blog on 極簡筆記</description>
+    <description>Recent content in Blog on Bookworm - Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Thu, 03 Mar 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Netflix美劇學英文 - Make it rain不是要下雨了</title>
-      <link>https://rolingchen.github.io/blog/makeitrain/</link>
-      <pubDate>Thu, 03 Mar 2022 18:19:25 +0600</pubDate>
-      
-      <guid>https://rolingchen.github.io/blog/makeitrain/</guid>
-      <description>Money matters 金錢很重要 Netflix 最近上架的兩部犯罪紀錄片The tinder swindler (Tinder大騙徒) 跟 inventing Anna (創造安娜) 都是跟詐騙金錢有關的題材，先學到了跟食物有關但完全不同意思的單字，然後前陣子一直下雨又看到明明講了雨卻不是雨的用法，就記錄下來。
- make it rain 字面看起來以為是下雨，其實下的是鈔票，有一擲千金炫富的意味
- 在INVENTING ANNA 創造安娜 S1E5 有句台詞，Anna liked to make it rain.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 10 Apr 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LINE貼圖 – 凱特的內心小劇場</title>
       <link>https://rolingchen.github.io/blog/210410_linestickerkate/</link>
@@ -29,7 +17,7 @@
     </item>
     
     <item>
-      <title>LINE貼圖 – 藍貓的日常生活1</title>
+      <title>LINE貼圖 – 藍貓的日常生活1 最喜歡看起來傻氣搞笑的藍貓跟二哈差不多</title>
       <link>https://rolingchen.github.io/blog/210410_linesticker/</link>
       <pubDate>Sat, 10 Apr 2021 18:19:25 +0600</pubDate>
       
@@ -41,6 +29,89 @@
  不要去想別人是不是覺得你畫的好，或者想要完成什麼偉大巨作，重點是「完成它」。
  認真執行發現自己利用晚上閒暇畫的速度真的超級慢，但隨著天數過去似乎加快了，也更了解APP的應用，偷懶、藉口多的自己完成了第一個貼圖，覺得有點感動☺️，胸口熱熱的。絕不要忘記，「完成」才是第一步(最耗時的是圖上面的手寫字⋯⋯⋯⋯)
 藍貓貼圖系列1  Line 貼圖 藍貓系列01</description>
+    </item>
+    
+    <item>
+      <title>Money matters, the Tinder swindler, inventing Anna 學到形容錢的單字與用法</title>
+      <link>https://rolingchen.github.io/blog/makeitrain/</link>
+      <pubDate>Wed, 03 Mar 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/makeitrain/</guid>
+      <description>Money matters 金錢很重要 Netflix 最近上架的兩部犯罪紀錄片The tinder swindler (Tinder大騙徒) 跟 inventing Anna (創造安娜) 都是跟詐騙金錢有關的題材，先學到了跟食物有關但完全不同意思的單字，然後前陣子一直下雨又看到明明講了雨卻不是雨的用法，就記錄下來。
+ make it rain 字面看起來以為是下雨，其實下的是鈔票，有一擲千金炫富的意味
+ 在INVENTING ANNA 創造安娜 S1E5 有句台詞，Anna liked to make it rain.</description>
+    </item>
+    
+    <item>
+      <title>How to make toys from old Olarpaper</title>
+      <link>https://rolingchen.github.io/blog/post-8/</link>
+      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/post-8/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit.</description>
+    </item>
+    
+    <item>
+      <title>What you need to know about Photography</title>
+      <link>https://rolingchen.github.io/blog/post-7/</link>
+      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/post-7/</guid>
+      <description>Photography is an invaluable medium that allows us to capture the incandescent beauty of the outside world, something many of us haven’t seen in&amp;hellip; well, a hot minute.</description>
+    </item>
+    
+    <item>
+      <title>Become a morning person with the help of this a alarm clock</title>
+      <link>https://rolingchen.github.io/blog/post-6/</link>
+      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/post-6/</guid>
+      <description>Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.</description>
+    </item>
+    
+    <item>
+      <title>Why a balloon is a flexible bag that can be inflated with a gas</title>
+      <link>https://rolingchen.github.io/blog/post-5/</link>
+      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/post-5/</guid>
+      <description>A balloon is a flexible bag that can be inflated with a gas, such as helium, hydrogen, nitrous oxide, oxygen, and air.</description>
+    </item>
+    
+    <item>
+      <title>Banana is the best meal packages in the UK spark outrage online</title>
+      <link>https://rolingchen.github.io/blog/post-4/</link>
+      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/post-4/</guid>
+      <description>A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</description>
+    </item>
+    
+    <item>
+      <title>DIY Paper Diamond Tutorial with HUNGRY HEART</title>
+      <link>https://rolingchen.github.io/blog/post-3/</link>
+      <pubDate>Mon, 25 Jan 2021 11:35:57 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/post-3/</guid>
+      <description>A paper diamond is such a pretty way to bring a flair of stylish luxury to your home.. Ut bibendum lacus vestibulum maximus suscipit.</description>
+    </item>
+    
+    <item>
+      <title>Become a morning person with the help of this a alarm clock</title>
+      <link>https://rolingchen.github.io/blog/post-2/</link>
+      <pubDate>Mon, 25 Jan 2021 11:33:57 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/post-2/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
+    </item>
+    
+    <item>
+      <title>What you need to know about Photography</title>
+      <link>https://rolingchen.github.io/blog/post-1/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/post-1/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
   </channel>

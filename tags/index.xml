@@ -1,39 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 極簡筆記</title>
+    <title>Tags on Bookworm - Personal Blog Template</title>
     <link>https://rolingchen.github.io/tags/</link>
-    <description>Recent content in Tags on 極簡筆記</description>
+    <description>Recent content in Tags on Bookworm - Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Thu, 03 Mar 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Netflix</title>
-      <link>https://rolingchen.github.io/tags/netflix/</link>
-      <pubDate>Thu, 03 Mar 2022 18:19:25 +0600</pubDate>
-      
-      <guid>https://rolingchen.github.io/tags/netflix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>字卡</title>
-      <link>https://rolingchen.github.io/tags/%E5%AD%97%E5%8D%A1/</link>
-      <pubDate>Thu, 03 Mar 2022 18:19:25 +0600</pubDate>
-      
-      <guid>https://rolingchen.github.io/tags/%E5%AD%97%E5%8D%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>美劇學英文</title>
-      <link>https://rolingchen.github.io/tags/%E7%BE%8E%E5%8A%87%E5%AD%B8%E8%8B%B1%E6%96%87/</link>
-      <pubDate>Thu, 03 Mar 2022 18:19:25 +0600</pubDate>
-      
-      <guid>https://rolingchen.github.io/tags/%E7%BE%8E%E5%8A%87%E5%AD%B8%E8%8B%B1%E6%96%87/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 10 Apr 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Line Sticker</title>
       <link>https://rolingchen.github.io/tags/line-sticker/</link>
@@ -49,6 +21,114 @@
       <pubDate>Sat, 10 Apr 2021 18:19:25 +0600</pubDate>
       
       <guid>https://rolingchen.github.io/tags/%E8%B2%BC%E5%9C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netflix</title>
+      <link>https://rolingchen.github.io/tags/netflix/</link>
+      <pubDate>Wed, 03 Mar 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/netflix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>字卡</title>
+      <link>https://rolingchen.github.io/tags/%E5%AD%97%E5%8D%A1/</link>
+      <pubDate>Wed, 03 Mar 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/%E5%AD%97%E5%8D%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>美劇學英文</title>
+      <link>https://rolingchen.github.io/tags/%E7%BE%8E%E5%8A%87%E5%AD%B8%E8%8B%B1%E6%96%87/</link>
+      <pubDate>Wed, 03 Mar 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/%E7%BE%8E%E5%8A%87%E5%AD%B8%E8%8B%B1%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diy</title>
+      <link>https://rolingchen.github.io/tags/diy/</link>
+      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/diy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toy</title>
+      <link>https://rolingchen.github.io/tags/toy/</link>
+      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/toy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://rolingchen.github.io/tags/photography/</link>
+      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alarm</title>
+      <link>https://rolingchen.github.io/tags/alarm/</link>
+      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/alarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clock</title>
+      <link>https://rolingchen.github.io/tags/clock/</link>
+      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/clock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balloon</title>
+      <link>https://rolingchen.github.io/tags/balloon/</link>
+      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/balloon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gas</title>
+      <link>https://rolingchen.github.io/tags/gas/</link>
+      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/gas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://rolingchen.github.io/tags/food/</link>
+      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gold</title>
+      <link>https://rolingchen.github.io/tags/gold/</link>
+      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
+      
+      <guid>https://rolingchen.github.io/tags/gold/</guid>
       <description></description>
     </item>
     
