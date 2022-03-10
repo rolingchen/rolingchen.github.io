@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Bookworm - Personal Blog Template</title>
+    <title>Categories on 極簡筆記</title>
     <link>https://rolingchen.github.io/categories/</link>
-    <description>Recent content in Categories on Bookworm - Personal Blog Template</description>
+    <description>Recent content in Categories on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 03 Mar 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -39,6 +39,15 @@
       <pubDate>Wed, 24 Nov 2021 18:19:25 +0800</pubDate>
       
       <guid>https://rolingchen.github.io/categories/%E5%89%B5%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>影音</title>
+      <link>https://rolingchen.github.io/categories/%E5%BD%B1%E9%9F%B3/</link>
+      <pubDate>Sun, 25 Jul 2021 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/categories/%E5%BD%B1%E9%9F%B3/</guid>
       <description></description>
     </item>
     

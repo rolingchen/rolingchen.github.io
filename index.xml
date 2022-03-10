@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bookworm - Personal Blog Template</title>
+    <title>極簡筆記</title>
     <link>https://rolingchen.github.io/</link>
-    <description>Recent content on Bookworm - Personal Blog Template</description>
+    <description>Recent content on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 03 Mar 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -243,6 +243,17 @@ I got it, Joey, women don’t have Adam’s apples.
     </item>
     
     <item>
+      <title>讀書心得 – 原子習慣 建立持續好習慣的心態</title>
+      <link>https://rolingchen.github.io/blog/210926_br_atomic_habit/</link>
+      <pubDate>Sun, 26 Sep 2021 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/210926_br_atomic_habit/</guid>
+      <description>Atomic Habits  書名：原子習慣
+副標題：細微改變帶來巨大成就的實證法則
+原書名：Atomic Habits: An Easy &amp;amp; Proven Way to Build Good Habits &amp;amp; Break Bad Ones</description>
+    </item>
+    
+    <item>
       <title>LINE貼圖 – 還好我在家之畫了兩組表情貼</title>
       <link>https://rolingchen.github.io/blog/210905_linestickeremoji02/</link>
       <pubDate>Sun, 05 Sep 2021 18:19:25 +0600</pubDate>
@@ -255,6 +266,70 @@ I got it, Joey, women don’t have Adam’s apples.
   可以插在文字中又能當貼圖用，覺得划算 (作者也要花錢買)
   可能尺寸小審核變更快，創下紀錄只花了8小時(誤)
   跟朋友的對話中馬上經典對照貼圖跟表情貼的差異🤣 表情貼細節可以偷懶  插畫觀測室教學網址 https://youtu.</description>
+    </item>
+    
+    <item>
+      <title>Netflix - 紀錄片 電影的故事系列</title>
+      <link>https://rolingchen.github.io/blog/210725_moviestory/</link>
+      <pubDate>Sun, 25 Jul 2021 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/210725_moviestory/</guid>
+      <description>The movies that made us  自從看完並寫了 看美劇 說出一口好英文 之後，開始執行一樣的方式，這大概是我訂閱Netflix最長的一次，習慣每次付款之後就立刻取消自動訂閱，避免自己忙到忘記又繼續扣款，但這個動作已經從4/26持續到現在(笑)
+開始抄錄感興趣的對白之後，看劇的感受與出發點不同，不像之前常撐不到10分鐘就會在不同的劇之間切換。
+最近在看紀錄片 電影的故事 The Movies that make us. ，非常喜歡也佩服團隊描述整部電影產出前因後果的敘事方式，尤其是諷刺幽默的旁白，還有恰如其分剪輯電影片段來呼應，這些表現方式讓紀錄片變得輕鬆有趣又發人深省(認真?)</description>
+    </item>
+    
+    <item>
+      <title>讀書心得 – 設計你的小習慣 Tiny habits, 為什麼無法養成好習慣</title>
+      <link>https://rolingchen.github.io/blog/210712_br_tiny_habits/</link>
+      <pubDate>Mon, 12 Jul 2021 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/210712_br_tiny_habits/</guid>
+      <description>Tiny Habits  書名：設計你的小習慣
+副標題：史丹佛大學行為設計實驗室精研，全球瘋IG背後的行為設計學家教你慣性動作養成的技術
+原書名：Tiny Habits : The Small Changes That Change Everything
+作者： BJ．福格
+譯者： 劉復苓
+出版社：天下雜誌出版</description>
+    </item>
+    
+    <item>
+      <title>讀書心得 – 學生為什麼不喜歡上學，原來大腦喜歡這樣學習</title>
+      <link>https://rolingchen.github.io/blog/210526_br_braindonotlike/</link>
+      <pubDate>Wed, 26 May 2021 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/210526_br_braindonotlike/</guid>
+      <description>學生為什麼不喜歡上學？  書名：學生為什麼不喜歡上學？
+副標題：認知心理學家解開大腦學習的運作結構，原來大腦喜歡這樣學
+原書名：Why Don’t Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom</description>
+    </item>
+    
+    <item>
+      <title>讀書心得 – 看美劇 說出一口好英文</title>
+      <link>https://rolingchen.github.io/blog/210526_br_learningthroughplay/</link>
+      <pubDate>Wed, 26 May 2021 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/210526_br_learningthroughplay/</guid>
+      <description>看美劇，說出一口好英文  書名：看美劇，說出一口好英文
+副標題：一天30分鐘＋高效筆記術，訓練用英文思考的大腦，從聽說讀寫全面提昇英文實力！
+原書名：海外ドラマで面白いほど英語が話せる超勉強法
+作者： 出口武賴
+譯者： 林農凱
+出版社：EZ叢書館
+出版日期：2020/02/05
+來源：Hyread圖書館借閱
+  「我沒補習，沒留過學，只是每天看30分鐘美劇， 現在我能說出一口媲美母語人士的英文，跟老外流暢對談。」──出口武賴
+ 作者不喜歡傳統的英文學習法，從國一開始靠著看美劇抄寫台詞達到英語流利，大學入學英文測驗滿分的成績，很適合愛看劇的人嘗試他的作法。
+通常情境喜劇語速較慢用字較簡單，法庭、政治或犯罪劇用字遣詞較進階，但還是依照個人喜好，畢竟無法感興趣，再簡單也沒用，不推薦電影是因為電影有時間限制，需要更濃縮緊湊的內容，日常對話的著墨上反而偏少，除了特定電影外，多數時間以畫面取勝，在同樣的時間裡能吸收的會話量相較影集少很多。</description>
+    </item>
+    
+    <item>
+      <title>Netflix - 紀錄片 極簡主義 記錄生命中重要的事、簡單就是潮兩部紀錄片觀後感</title>
+      <link>https://rolingchen.github.io/blog/210510_lessisnow/</link>
+      <pubDate>Mon, 10 May 2021 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/210510_lessisnow/</guid>
+      <description>Less is now  幾年前曾試著觀賞2016年的極簡主義紀錄片Minimalism: A Documentary About the Important Things極簡主義記錄生命中的重要事物(2016) ，當時無法順利看完，覺得內容很悶，這個月才注意到多了2021年版，The minimalists Less is now 極簡主義：簡單就是潮(2021)主軸比較單純，圍繞兩位作者的過去與他們試著極簡的經歷，以虛擬過去情境的方式取代純口述，較能引導人去了解，而且會發現相較於2016年版更圓融折衷，看完Less is now簡單就是潮，回頭再去看2016極簡主義會更能了解作者想推廣的生活方式。</description>
     </item>
     
     <item>
