@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notion on 極簡筆記</title>
+    <link>https://rolingchen.github.io/tags/notion/</link>
+    <description>Recent content in Notion on 極簡筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Mar 2022 18:19:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/notion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notion - 利用meteoblue網頁插入一週天氣表</title>
+      <link>https://rolingchen.github.io/blog/220315_notionweatherwidget/</link>
+      <pubDate>Tue, 15 Mar 2022 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/220315_notionweatherwidget/</guid>
+      <description>在看影片時剛好提到meteoblue這個網站的widget可以嵌入Notion，可惜不是這個影片的重點，所以也只是帶過而已   (at 08:45) 主持人眼睛一亮問她氣溫表怎麼弄出來的
+不需要像indify申請帳號密碼，而且現在天氣功能已經變成要付費才能使用， 以下步驟：
+到 https://www.meteoblue.com/，左邊的選單選擇Widget，會看到五種小工具，選擇Widget Day
+可以選顯示天數/溫度單位/風速單位/雨量單位/彩色或黑白
+下方有顯示參數，以我自己使用的當範例，我勾選了
+ 圖示 當日最高最低溫雨量 降雨機率 暗色文字 因為Notion不支援iframe, 複製HTML裡面src=&amp;ldquo;&amp;ldquo;雙引號中間的網誌，貼到notion空白處選Create embed</description>
+    </item>
+    
+  </channel>
+</rss>
