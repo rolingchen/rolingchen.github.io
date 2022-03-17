@@ -7,13 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Mar 2022 18:19:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Notion - 利用meteoblue的Widget在Notion加入一週天氣表</title>
+      <title>nice, good, what&#39;s the difference?</title>
+      <link>https://rolingchen.github.io/blog/220317_nicegood/</link>
+      <pubDate>Tue, 15 Mar 2022 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/220317_nicegood/</guid>
+      <description>小四的姪女最近問她媽媽，Nice跟Good都是好，有什麼不同?
+想一下，我好像沒有思考過這兩個字的差異，都是用直覺，Google一下做點功課。
+看了一些英語討論區的回答，發現即使是Native Speaker好像也沒有特別去思考或能完整解釋兩個字差在哪裡，反而在Youtube看到一個日本人英語教學頻道解釋最清楚，，果然是熱衷分類的日本人。   日文認識有限，也只能從單字還有她講的英文去判讀了，以下是我看完幾個網址與影片的整理。
+ Nice 是一種主觀的感受，Good 是一種客觀的感受
+ 這兩個形容詞都可以用來形容人或物，
+以物為例，
+ nice對物喜愛，有好感；
+good則是指物內涵被公認的品質
+   This is a nice book.</description>
+    </item>
+    
+    <item>
+      <title>用meteoblue的Widget在Notion加入一週天氣表</title>
       <link>https://rolingchen.github.io/blog/220315_notionweatherwidget/</link>
       <pubDate>Tue, 15 Mar 2022 18:19:25 +0800</pubDate>
       
       <guid>https://rolingchen.github.io/blog/220315_notionweatherwidget/</guid>
-      <description>在看影片時剛好提到meteoblue這個網站的widget可以嵌入Notion，可惜不是這個影片的重點，講者只有稍微帶過，試一下發現很方便，就來寫一下步驟   (at 08:45) 主持人眼睛一亮問她天氣表怎麼弄出來的
-不需要像indify申請帳號密碼，而且現在天氣功能已經變成要付費才能使用， 操作步驟：
+      <description>不需要像indify申請帳號密碼，而且indify現在天氣功能已經變成要付費才能使用， 這個PARA分享影片稍微帶過meteoblue.com的天氣widget可以嵌入Notion，試一下發現很方便，就來寫一下步驟   (at 08:45) 主持人眼睛一亮問她天氣表怎麼弄出來的
+操作步驟：
 到 https://www.meteoblue.com/，左邊的選單選擇Widget，會看到五種小工具，選擇Widget Day
 可以選顯示天數/溫度單位/風速單位/雨量單位/彩色或黑白
 下方有顯示參數，以我自己使用的當範例，我勾選了
