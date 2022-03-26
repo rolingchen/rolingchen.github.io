@@ -1,36 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Author on 極簡筆記</title>
+    <title>Roling Chen on 極簡筆記</title>
     <link>https://rolingchen.github.io/author/</link>
-    <description>Recent content in Author on 極簡筆記</description>
+    <description>Recent content in Roling Chen on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 26 Jan 2021 10:13:00 +0600</lastBuildDate><atom:link href="https://rolingchen.github.io/author/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Henara Colii</title>
-      <link>https://rolingchen.github.io/author/henara-colii/</link>
-      <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
-      
-      <guid>https://rolingchen.github.io/author/henara-colii/</guid>
-      <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
-    </item>
-    
     <item>
       <title>Roling Chen</title>
       <link>https://rolingchen.github.io/author/roling-chen/</link>
       <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
       
       <guid>https://rolingchen.github.io/author/roling-chen/</guid>
-      <description>覺得全部靜態網頁可能比較輕鬆的站長</description>
-    </item>
-    
-    <item>
-      <title>Lubana Era</title>
-      <link>https://rolingchen.github.io/author/lubana-era/</link>
-      <pubDate>Tue, 26 Jan 2021 10:14:19 +0600</pubDate>
-      
-      <guid>https://rolingchen.github.io/author/lubana-era/</guid>
-      <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
+      <description>hello world</description>
     </item>
     
   </channel>

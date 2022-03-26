@@ -5,7 +5,23 @@
     <link>https://rolingchen.github.io/</link>
     <description>Recent content on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 17 Mar 2022 18:19:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 18:19:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google圖書 註記筆記自動同步到雲端硬碟</title>
+      <link>https://rolingchen.github.io/blog/220326_googlebooktodrive/</link>
+      <pubDate>Fri, 25 Mar 2022 18:19:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/220326_googlebooktodrive/</guid>
+      <description>現在才發現google圖書如果是流式ePub格式，可以自動同步把註記以一本書一個文件方式存到google硬碟，很方便😀，不確定某句話或某個詞在哪本書出現過時，硬碟直接搜尋，真是造福記性不好的人，要寫心得時也可以快速重新review自己覺得重要的部分。
+Google圖書 買書看書由此去&amp;raquo;
+打開任何一本購買的書，右上角的註記選項
+可自訂儲存註記檔案的資料夾檔名，也可以關閉或開啟自動同步 一本書會以一個文件檔存在google雲端硬碟中，看書時有變動到註記，會自動同步
+下圖左是Google圖書的註記功能，右是筆記文件檔案呈現的樣式，可以記錄4個項目：
+ 書本上的小標題(自動記錄，也會統計在那個小標題下，劃記了幾個重點)
+ 頁碼，點頁碼連結可以連回書本該頁註記位置 劃線的內容 自行填寫的筆記內容
+其他像是那天註記也會理所當然地自動更新進去  </description>
+    </item>
+    
     <item>
       <title>nice, good, what&#39;s the difference?</title>
       <link>https://rolingchen.github.io/blog/220317_nicegood/</link>
@@ -14,7 +30,7 @@
       <guid>https://rolingchen.github.io/blog/220317_nicegood/</guid>
       <description>小四的姪女最近問她媽媽，Nice跟Good都是好，有什麼不同?
 想一下，我好像沒有思考過這兩個字的差異，都是用直覺，Google一下做點功課。
-看了一些英語討論區的回答，發現即使是Native Speaker好像也沒有特別去思考或能完整解釋兩個字差在哪裡，反而在Youtube看到一個日本人英語教學頻道解釋最清楚，，果然是熱衷分類的日本人。   日文認識有限，也只能從單字還有她講的英文去判讀了，以下是我看完幾個網址與影片的整理。
+看了一些英語討論區的回答，發現即使是Native Speaker好像也沒有特別去思考或能完整解釋兩個字差在哪裡，反而在Youtube看到一個日本人英語教學頻道解釋最清楚，果然是熱衷分類的日本人。   日文認識有限，也只能從單字還有她講的英文去判讀了，以下是我看完幾個網址與影片的整理。
  Nice 是一種主觀的感受，Good 是一種客觀的感受
  這兩個形容詞都可以用來形容人或物，
 以物為例，
@@ -482,30 +498,12 @@ Procreate繪製，Procreate本身就有匯出背景透明PNG的格式，容易�
     </item>
     
     <item>
-      <title>Henara Colii</title>
-      <link>https://rolingchen.github.io/author/henara-colii/</link>
-      <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
-      
-      <guid>https://rolingchen.github.io/author/henara-colii/</guid>
-      <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
-    </item>
-    
-    <item>
       <title>Roling Chen</title>
       <link>https://rolingchen.github.io/author/roling-chen/</link>
       <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
       
       <guid>https://rolingchen.github.io/author/roling-chen/</guid>
-      <description>覺得全部靜態網頁可能比較輕鬆的站長</description>
-    </item>
-    
-    <item>
-      <title>Lubana Era</title>
-      <link>https://rolingchen.github.io/author/lubana-era/</link>
-      <pubDate>Tue, 26 Jan 2021 10:14:19 +0600</pubDate>
-      
-      <guid>https://rolingchen.github.io/author/lubana-era/</guid>
-      <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
+      <description>hello world</description>
     </item>
     
     <item>
