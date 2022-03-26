@@ -216,13 +216,13 @@ AUTHOR WEBSITE: https://themefisher.com
         
         
         
-        <li class="list-inline-item">/ &nbsp; <a href="https://rolingchen.github.io/tags">Tags</a></li>
+        <li class="list-inline-item breadcrumb-dynamic-list-item">/ &nbsp; <a href="https://rolingchen.github.io/tags" style="display:none">Tags</a></li>
         
         
         
         
         
-        <li class="list-inline-item">/ &nbsp; <a href="https://rolingchen.github.io/tags/%E7%A9%BA%E6%B0%A3%E9%B3%B3%E6%A2%A8">% e7% a9% ba% e6% b0% a3% e9% b3% b3% e6% a2% a8</a></li>
+        <li class="list-inline-item breadcrumb-dynamic-list-item">/ &nbsp; <a href="https://rolingchen.github.io/tags/%E7%A9%BA%E6%B0%A3%E9%B3%B3%E6%A2%A8" style="display:none">% e7% a9% ba% e6% b0% a3% e9% b3% b3% e6% a2% a8</a></li>
         
         
         
@@ -234,6 +234,22 @@ AUTHOR WEBSITE: https://themefisher.com
     </div>
   </div>
 </section>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var elements = document.getElementsByClassName("breadcrumb-dynamic-list-item");
+    Array.prototype.forEach.call(elements, function(element) {
+      var a = element.firstElementChild;
+      var decodedUrl = decodeURIComponent(a);
+      var text = decodedUrl.split("/")[decodedUrl.split("/").length - 1];
+
+      var upperFirstCharacter = text.slice(0,1).toUpperCase() + text.slice(1);
+
+      a.text = upperFirstCharacter;
+      a.style.display = null;
+    });
+  });
+</script>
+
   
   
 

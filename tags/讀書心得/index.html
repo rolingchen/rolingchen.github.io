@@ -216,13 +216,13 @@ AUTHOR WEBSITE: https://themefisher.com
         
         
         
-        <li class="list-inline-item">/ &nbsp; <a href="https://rolingchen.github.io/tags">Tags</a></li>
+        <li class="list-inline-item breadcrumb-dynamic-list-item">/ &nbsp; <a href="https://rolingchen.github.io/tags" style="display:none">Tags</a></li>
         
         
         
         
         
-        <li class="list-inline-item">/ &nbsp; <a href="https://rolingchen.github.io/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97">% e8% ae%80% e6%9 b% b8% e5% bf%83% e5% be%97</a></li>
+        <li class="list-inline-item breadcrumb-dynamic-list-item">/ &nbsp; <a href="https://rolingchen.github.io/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97" style="display:none">% e8% ae%80% e6%9 b% b8% e5% bf%83% e5% be%97</a></li>
         
         
         
@@ -234,6 +234,22 @@ AUTHOR WEBSITE: https://themefisher.com
     </div>
   </div>
 </section>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var elements = document.getElementsByClassName("breadcrumb-dynamic-list-item");
+    Array.prototype.forEach.call(elements, function(element) {
+      var a = element.firstElementChild;
+      var decodedUrl = decodeURIComponent(a);
+      var text = decodedUrl.split("/")[decodedUrl.split("/").length - 1];
+
+      var upperFirstCharacter = text.slice(0,1).toUpperCase() + text.slice(1);
+
+      a.text = upperFirstCharacter;
+      a.style.display = null;
+    });
+  });
+</script>
+
   
   
 
@@ -289,11 +305,11 @@ AUTHOR WEBSITE: https://themefisher.com
 
 
 <picture>
-  <source srcset="/images/post/featured_image_220326_hu1b69bc4fe949f9b1447a7b4a52d27d47_258385_545x0_resize_q95_h2_box_3.webp" media="(max-width: 575px)">
-  <source srcset="/images/post/featured_image_220326_hu1b69bc4fe949f9b1447a7b4a52d27d47_258385_600x0_resize_q95_h2_box_3.webp" media="(max-width: 767px)">
-  <source srcset="/images/post/featured_image_220326_hu1b69bc4fe949f9b1447a7b4a52d27d47_258385_700x0_resize_q95_h2_box_3.webp" media="(max-width: 991px)">
-  <source srcset="/images/post/featured_image_220326_hu1b69bc4fe949f9b1447a7b4a52d27d47_258385_1110x0_resize_q95_h2_box_3.webp">
-  <img loading="lazy" decoding="async" class="w-100 h-auto rounded" src="/images/post/featured_image_220326_hu1b69bc4fe949f9b1447a7b4a52d27d47_258385_1110x0_resize_box_3.png" alt="Google圖書 註記筆記自動同步到雲端硬碟" width="1200" height="628">
+  <source srcset="/images/post/featured_image_220326_hu6060e66911a4bb8b7406a51a2e36031b_257985_545x0_resize_q95_h2_box_3.webp" media="(max-width: 575px)">
+  <source srcset="/images/post/featured_image_220326_hu6060e66911a4bb8b7406a51a2e36031b_257985_600x0_resize_q95_h2_box_3.webp" media="(max-width: 767px)">
+  <source srcset="/images/post/featured_image_220326_hu6060e66911a4bb8b7406a51a2e36031b_257985_700x0_resize_q95_h2_box_3.webp" media="(max-width: 991px)">
+  <source srcset="/images/post/featured_image_220326_hu6060e66911a4bb8b7406a51a2e36031b_257985_1110x0_resize_q95_h2_box_3.webp">
+  <img loading="lazy" decoding="async" class="w-100 h-auto rounded" src="/images/post/featured_image_220326_hu6060e66911a4bb8b7406a51a2e36031b_257985_1110x0_resize_box_3.png" alt="Google圖書 註記筆記自動同步到雲端硬碟" width="1200" height="628">
 </picture>
  
  

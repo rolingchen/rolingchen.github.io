@@ -216,13 +216,13 @@ AUTHOR WEBSITE: https://themefisher.com
         
         
         
-        <li class="list-inline-item">/ &nbsp; <a href="https://rolingchen.github.io/categories">Categories</a></li>
+        <li class="list-inline-item breadcrumb-dynamic-list-item">/ &nbsp; <a href="https://rolingchen.github.io/categories" style="display:none">Categories</a></li>
         
         
         
         
         
-        <li class="list-inline-item">/ &nbsp; <a href="https://rolingchen.github.io/categories/%E5%89%B5%E4%BD%9C">% e5%89% b5% e4% bd%9 c</a></li>
+        <li class="list-inline-item breadcrumb-dynamic-list-item">/ &nbsp; <a href="https://rolingchen.github.io/categories/%E5%89%B5%E4%BD%9C" style="display:none">% e5%89% b5% e4% bd%9 c</a></li>
         
         
         
@@ -234,6 +234,22 @@ AUTHOR WEBSITE: https://themefisher.com
     </div>
   </div>
 </section>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var elements = document.getElementsByClassName("breadcrumb-dynamic-list-item");
+    Array.prototype.forEach.call(elements, function(element) {
+      var a = element.firstElementChild;
+      var decodedUrl = decodeURIComponent(a);
+      var text = decodedUrl.split("/")[decodedUrl.split("/").length - 1];
+
+      var upperFirstCharacter = text.slice(0,1).toUpperCase() + text.slice(1);
+
+      a.text = upperFirstCharacter;
+      a.style.display = null;
+    });
+  });
+</script>
+
   
   
 
