@@ -1,0 +1,31 @@
+<div class="col-lg-12">
+  <div class="widgets">
+    <!-- about -->
+    <div class="widget">
+      {{ with .Site.GetPage "/author" }}
+      <h4 class="widget-title">{{ .Title | markdownify }}</h4>
+      {{ if .Params.Image }}
+      {{ partial "image.html" (dict "Src" .Params.image "Size" "150x150" "Class" "img-fluid rounded mb-5" "Alt" .Title) }}
+      {{ end }}
+      <p>{{ .Summary }}</p>      
+      {{ end }}
+    </div>
+    <!-- category -->
+    <div class="widget">
+      <h4 class="widget-title">.......</h4>
+      {{- if isset .Site.Taxonomies "categories" }}
+      {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+      <ul class="list-unstyled">
+        {{- range $name, $items := .Site.Taxonomies.categories }}
+        <li><p><a
+            href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | title | humanize }}</a></p></li>
+        </li>
+        {{- end }}
+      </ul>
+      {{- end }}
+      {{- end }}
+    </div>
+   
+
+  </div>
+</div>

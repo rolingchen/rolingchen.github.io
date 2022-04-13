@@ -1,0 +1,47 @@
+<section class="section-sm pb-2 page-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-8 mx-auto text-center">
+
+        {{ if or (eq .Section "tags") (eq .Section "categories") }}
+        {{ if or (eq .Permalink (`tags/` | absURL)) (eq .Permalink (`categories/` | absURL)) }}
+        <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
+        {{else}}
+        <h4 class="mb-3 text-dark font-weight-bold">Showing posts from <mark>{{.Title | markdownify}}</mark></h4>
+        {{ end }}
+        {{ else }}
+        <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
+        {{ end }}
+
+
+        <ul class="list-inline breadcrumb-menu">
+        {{ $url := replace .Permalink ( printf "%s" site.BaseURL) "" }}
+        {{ $.Scratch.Add "path" site.BaseURL }}
+        <li class="list-inline-item"><a href="{{site.BaseURL | relLangURL}}">Home</a></li>
+        {{ range $index, $element := split $url "/" }}
+        {{ $.Scratch.Add "path" $element }}
+        {{ if (ne $element "") }}
+        <li class="list-inline-item breadcrumb-dynamic-list-item">/ &nbsp; <a href="{{ $.Scratch.Get `path` }}" style="display:none">{{ . | humanize }}</a></li>
+        {{ $.Scratch.Add "path" "/" }}
+        {{ end }}
+        {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var elements = document.getElementsByClassName("breadcrumb-dynamic-list-item");
+    Array.prototype.forEach.call(elements, function(element) {
+      var a = element.firstElementChild;
+      var decodedUrl = decodeURIComponent(a);
+      var text = decodedUrl.split("/")[decodedUrl.split("/").length - 1];
+
+      var upperFirstCharacter = text.slice(0,1).toUpperCase() + text.slice(1);
+
+      a.text = upperFirstCharacter;
+      a.style.display = null;
+    });
+  });
+</script>

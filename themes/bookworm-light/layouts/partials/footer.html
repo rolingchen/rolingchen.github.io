@@ -1,0 +1,23 @@
+<footer class="section-sm">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-5">
+        {{ with site.Params.subscription }}
+        {{ if .enable }}
+
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="col-lg-12 text-center mt-5">
+        <ul class="list-inline footer-menu mb-4">
+          {{ range site.Menus.footer }}
+          <li class="list-inline-item mx-3"><a href="{{.URL | absURL}}">{{.Name}}</a></li>
+          {{ end }}
+        </ul>
+        {{ with site.Params.copyright }}
+        <p class="mb-0 font-weight-400 copyright-text content">{{.| markdownify}}</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</footer>
