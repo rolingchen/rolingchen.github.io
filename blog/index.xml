@@ -5,14 +5,31 @@
     <link>https://rolingchen.github.io/blog/</link>
     <description>Recent content in Blog on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 22 May 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Line 原創主題初嘗試與退件原因 inkScape真好用</title>
+      <link>https://rolingchen.github.io/blog/220523_linetheme/</link>
+      <pubDate>Mon, 23 May 2022 12:22:00 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/220523_linetheme/</guid>
+      <description>最近幾個月Line主題都用黑色跟白色兩種交替，看膩了，又手癢想弄一下主題，LINE主題需要的圖片分成iOS跟Android兩種尺寸，圖示要能輕易換色、放大縮小，向量絕對比點陣圖好處理，改變心態不是從0開始，而是以一個既有UI換圖的概念來看，突然覺得需要處理的部份真的很少也很簡單。
+只是還是要說一下，上傳的圖示會依照國家不同，有些可能永遠看不到，整體色系只能挑LINE預設的幾種來使用，無法任意自訂每個畫面或功能選單的顏色，客製程度很小，成就感趨近於0 (大笑)。
+正好用來摸索 inkscape 怎麼繪圖，開啟速度快、系統需求低、穩定性佳，這樣一個軟體居然是免費的! 以後可以偶爾想到來畫一下小圖示備用了。
+被退件1次，現在回頭看發現準則其實有寫，原來 A.主要圖片 就是 G啟動畫面圖片 等比例縮小，我還另外做了三張圖，就被退了。 關於inkScape整體介紹與基本圖形繪製，PAPAYA這個影片是很好的入門
+https://www.youtube.com/watch?v=mZdzzaNjiqU
+  Line主題製作準則詳細版
+https://creator.line.me/zh-hant/guideline/theme/detail/
+主題販售網址
+https://store.line.me/themeshop/product/8f8e5dcc-391d-489d-9fb1-fbc54b797694</description>
+    </item>
+    
     <item>
       <title>宅宅學日文 モヤモヤ 不安 難受 SpyxFamily EP7</title>
       <link>https://rolingchen.github.io/blog/220522_moyamoya/</link>
       <pubDate>Sun, 22 May 2022 12:22:00 +0800</pubDate>
       
       <guid>https://rolingchen.github.io/blog/220522_moyamoya/</guid>
-      <description>**モヤモヤ (moyamoya)**在日劇跟動漫聽過好幾次，使用情境都是因狀態不明而感到不安難受或憂鬱。
+      <description>モヤモヤ (moyamoya) 在日劇跟動漫聽過好幾次，使用情境都是因狀態不明而感到不安難受或憂鬱。
 很多下週家有學童要遠距的家長&amp;hellip;此刻大概就是這種心情。
 間諜家家酒第七集更新，次子暈船了，這個字真的非常好用!
  達米安：
