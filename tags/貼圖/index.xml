@@ -5,7 +5,20 @@
     <link>https://rolingchen.github.io/tags/%E8%B2%BC%E5%9C%96/</link>
     <description>Recent content in 貼圖 on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 May 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/%E8%B2%BC%E5%9C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/%E8%B2%BC%E5%9C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>軟體應用 inkscape 描繪點陣圖將 點陣圖 轉成 向量圖</title>
+      <link>https://rolingchen.github.io/blog/220524_inkscapeimagetopath/</link>
+      <pubDate>Tue, 24 May 2022 12:22:00 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/220524_inkscapeimagetopath/</guid>
+      <description>如果不想直接在 inkscape 繪圖，想要匯入點陣圖 (舉例用 Procreate 畫的檔案) 轉成向量圖，可以參考下面這個教學
+C01 將手繪圖稿&amp;ndash;運用Inkscape 轉換為向量圖
+  描繪點陣圖 各選項造成的差異可以參考官方文件
+https://inkscape.org/zh-hant/doc/tutorials/tracing/tutorial-tracing.html
+把平板裡面不知道畫來幹嘛的小圖，用描繪點陣圖轉向量，再 Ctrl + L 簡化線條，別有一番風味，又能一直複製、放大縮小 😁</description>
+    </item>
+    
     <item>
       <title>Line 原創主題初嘗試與退件原因 inkscape真好用</title>
       <link>https://rolingchen.github.io/blog/220523_linetheme/</link>
