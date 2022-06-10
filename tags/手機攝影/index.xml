@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>軟體應用 on 極簡筆記</title>
-    <link>https://rolingchen.github.io/tags/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/</link>
-    <description>Recent content in 軟體應用 on 極簡筆記</description>
+    <title>手機攝影 on 極簡筆記</title>
+    <link>https://rolingchen.github.io/tags/%E6%89%8B%E6%A9%9F%E6%94%9D%E5%BD%B1/</link>
+    <description>Recent content in 手機攝影 on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Jun 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/%E6%89%8B%E6%A9%9F%E6%94%9D%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>軟體應用 DaVinci Resolve 17 畫面轉黑白只留強調的主體顏色 多色字幕</title>
       <link>https://rolingchen.github.io/blog/220610_davinciresolvenote01/</link>
@@ -15,19 +15,6 @@
       <description>https://fb.watch/dyKL8fadzD/ 道路體廣告的最後，黑白+亮黃色的表現方式讓我突然很好奇，好想試出來，啪啪啪哒 (打鍵盤關鍵字的聲音)
   用之前跟著老弟他們去參加活動的片段，前4秒原始畫面，後面開始黑白，只讓濾杯保留顏色，然後字幕第一次用兩個以上，想做文字顏色差異，結果發現限制只能一個，又快速找到一個教學，將 srt 轉成 FCPXML 檔案當成影片片段編輯來達成。
 不知道是不是 bug，拉不進去 Media Pool，沒有反應，折衷方式是在 Medio Pool 上面右鍵 [Timelines] &amp;gt; [Import] &amp;gt; [AFF/DEL/XML/DRT/ADL&amp;hellip;] 快速鍵 Ctrl+Shift+I，當成片段之後能再調整字型，但是無法正確顯示背景色 &amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>軟體應用 inkscape 描繪點陣圖將 點陣圖 轉成 向量圖</title>
-      <link>https://rolingchen.github.io/blog/220524_inkscapeimagetopath/</link>
-      <pubDate>Tue, 24 May 2022 12:22:00 +0800</pubDate>
-      
-      <guid>https://rolingchen.github.io/blog/220524_inkscapeimagetopath/</guid>
-      <description>如果不想直接在 inkscape 繪圖，想要匯入點陣圖 (舉例用 Procreate 畫的檔案) 轉成向量圖，可以參考下面這個教學
-C01 將手繪圖稿&amp;ndash;運用Inkscape 轉換為向量圖
-  描繪點陣圖 各選項造成的差異可以參考官方文件
-https://inkscape.org/zh-hant/doc/tutorials/tracing/tutorial-tracing.html
-把平板裡面不知道畫來幹嘛的小圖，用描繪點陣圖轉向量，再 Ctrl + L 簡化線條，別有一番風味，又能一直複製、放大縮小 😁</description>
     </item>
     
   </channel>

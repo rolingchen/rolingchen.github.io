@@ -5,7 +5,18 @@
     <link>https://rolingchen.github.io/blog/</link>
     <description>Recent content in Blog on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Jun 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>軟體應用 DaVinci Resolve 17 畫面轉黑白只留強調的主體顏色 多色字幕</title>
+      <link>https://rolingchen.github.io/blog/220610_davinciresolvenote01/</link>
+      <pubDate>Fri, 10 Jun 2022 12:22:00 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/220610_davinciresolvenote01/</guid>
+      <description>https://fb.watch/dyKL8fadzD/ 道路體廣告的最後，黑白+亮黃色的表現方式讓我突然很好奇，好想試出來，啪啪啪哒 (打鍵盤關鍵字的聲音)
+  用之前跟著老弟他們去參加活動的片段，前4秒原始畫面，後面開始黑白，只讓濾杯保留顏色，然後字幕第一次用兩個以上，想做文字顏色差異，結果發現限制只能一個，又快速找到一個教學，將 srt 轉成 FCPXML 檔案當成影片片段編輯來達成。
+不知道是不是 bug，拉不進去 Media Pool，沒有反應，折衷方式是在 Medio Pool 上面右鍵 [Timelines] &amp;gt; [Import] &amp;gt; [AFF/DEL/XML/DRT/ADL&amp;hellip;] 快速鍵 Ctrl+Shift+I，當成片段之後能再調整字型，但是無法正確顯示背景色 &amp;hellip;</description>
+    </item>
+    
     <item>
       <title>宅宅學英文 butt in 不要插嘴插手 / butt out 走開 屁股來屁股去</title>
       <link>https://rolingchen.github.io/blog/220603_buttin/</link>
@@ -14,9 +25,10 @@
       <guid>https://rolingchen.github.io/blog/220603_buttin/</guid>
       <description>小孩子，不知道集體怎麼了，有段時間只要講到屁股跟放屁就能咯咯笑很久，難道他們也懂屁股的俚語?!
 前幾天看到這個用法，馬上手刀記下來，然後控制不了自己的手，隨便畫出自己內心的感受! 這樣就省去找圖的時間，雖然離題很遠!(大笑)
-要叫別人不要插手，除了 interrupt 外，也可以用 butt in，聽起來莫名有氣勢 ( 對講中文的人來說 )，造句也非常方便，一句兩用
+要叫別人不要插手，除了 interrupt 外，也可以用 butt in，聽起來莫名有氣勢，造句也非常方便，一句兩用
 it&amp;rsquo;s none of your business, don&amp;rsquo;t butt in.
-那不關你的事，別插手!</description>
+那不關你的事，別插手!
+既然別插手插嘴，那延伸下去不就是給我滾? (誤)，butt out 就是叫人走開不要打擾的意思，繼續用同一個例句改</description>
     </item>
     
     <item>
