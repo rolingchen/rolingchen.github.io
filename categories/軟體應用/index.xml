@@ -5,7 +5,18 @@
     <link>https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/</link>
     <description>Recent content in 軟體應用 on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Jun 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jun 2022 17:17:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 Notion API 搭配 iPhone 捷徑 快速輸入 Task</title>
+      <link>https://rolingchen.github.io/blog/220618_notionshortcut/</link>
+      <pubDate>Sat, 18 Jun 2022 17:17:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/220618_notionshortcut/</guid>
+      <description>在 Notion 社團看到版主有提到這個功能，他是從 Twitter 上看到，版主說正在寫教學，5/31就在我的清單上，等了快 20 天，教學還沒出來，所以決定自己硬幹 找到這個影片，步驟是對的，只是 Json code 不是 Notion 認定的類型，一直出現錯誤，後來在 Raddit 找到有一樣問題的人遇到好心回答，喔耶!
+手把手的教學影片，拍得很用心也講解得很清楚，只剩 Json code 有問題(下面會補充並把一些可以用來複製貼上的也打出來)
+Notion X IOS Shortcuts捷径 快速添加待办任务todo 任务管理</description>
+    </item>
+    
     <item>
       <title>軟體應用 DaVinci Resolve 17 畫面轉黑白只留強調的主體顏色 多色字幕</title>
       <link>https://rolingchen.github.io/blog/220610_davinciresolvenote01/</link>
