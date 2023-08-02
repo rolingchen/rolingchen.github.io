@@ -1,0 +1,42 @@
+---
+title: "擷圖、錄影、備註軟體 Share X, 改中文, 淺色模式, 錄影為什麼沒有聲音"
+image: "images/post/screenshot.png"
+date: 2023-08-02T21:00:25+08:00
+author: "Roling Chen"
+tags: ["擷圖","梗圖", "MEME"]
+categories: ["語言學習", "軟體應用"]
+# meta description
+description: ""
+draft: false
+---
+我個人真的蠻喜歡用 Share X，這個軟體的運作跟思考邏輯真的很不直覺(?)，但對於愛用數值調整的人就覺得很方便。<br>
+螢幕錄影時有遇過沒有聲音的問題，遇到問題 google 一下總會看到熱心人士分享或討論，很快就能得到解決。<br>
+
+### 改語言<br>
+預設是英文，想改語言可依照這張圖的步驟，有繁體中文。
+{{< image src="images/post/sharex_lang.png" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+
+
+### Share X https://getsharex.com/<br> 
+{{< image src="images/post/sharex_portable.png" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+<br>
+- 可自訂快速鍵
+- 有免安裝版本 (個人偏好)
+- 擷圖：視窗 / 局部 / 捲動視窗長擷圖
+- 自帶圖片編輯器，加字加箭頭加步驟符號，可自定表情圖案等等。
+- 可存透明PNG
+- 錄影：可選擇視窗 / 局部，沒有影片編輯器。
+- 錄影可以存成 gif 檔案，很適合做迷因圖
+- 免費。
+- 可設定上傳雲端分享 (用不到，都直接關掉這功能)
+
+**優點：可以自訂的選項超級多，每次想到需要的功能，發現內建調整一下就可以，真是ワクワク。**<br>
+**缺點：同上，不習慣的人會覺得複雜。**
+
+除了上述外，我會用到的功能：
+1. [ tools ] → [ pin to screen ]，把圖片釘在螢幕畫面上，可釘多張，需對照或提示還是便利貼都好用，圖片可自由移動位置，釘選圖片上按右鍵就會消失。<br>
+2. [ tools ] → [ OCR ] , 雖然辨識度不是百分百正確，重新謄打跟只需要修改幾個字，時間上完全是兩件事。<br>
+3. 所有功能都可以自訂快速鍵，用鍵盤絕對比慢慢點快。<br> 
+
+> 意外的收穫：一張圖勝過千言萬語，有時候要遠端溝通事情時，這種工具真的好方便。
+
