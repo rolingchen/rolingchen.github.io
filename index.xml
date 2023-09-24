@@ -5,7 +5,22 @@
     <link>https://rolingchen.github.io/</link>
     <description>Recent content on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Aug 2023 21:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 12:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>堀與宮村 ホリミヤ</title>
+      <link>https://rolingchen.github.io/blog/230924_horimiya/</link>
+      <pubDate>Sun, 24 Sep 2023 12:00:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/230924_horimiya/</guid>
+      <description>堀與宮村動畫第二期於今天播出完畢。
+原著漫畫自 2007 年 2 月開始連載，至今仍不時更新番外篇。
+ 原著作者網站：https://dka-hero.me/top.html
+ 漫畫前 140 話為本篇，也就是整個故事的主線。
+141 話之後則是本篇期間的各種題外話生活片段，最近更新至第 600 話。
+後來由漫畫家萩原ダイスケ繪製了更加精緻的版本，共17卷，類似一拳超人，原著畫風簡單，而精緻版本則由其他人繪製。
+動畫第一期改編自本篇，第二期則改編自 141 話之後的內容，因此副標題取名為「piece」 。</description>
+    </item>
+    
     <item>
       <title>Share X 設定一：改中文介面, 淺色模式, 錄影為什麼沒有聲音</title>
       <link>https://rolingchen.github.io/blog/230802_sharex_setting/</link>
@@ -27,6 +42,7 @@
       <guid>https://rolingchen.github.io/blog/230729_screenshotsoftware/</guid>
       <description>前陣子瘋狂想在短時間從N5唸到N3，目前終於來到N3尾，學習的媒介是Youtube影片，筆記用 Notion, 開始沒多久就有想在老師的板書上註解或者自行補充什麼的想法，很想在圖片上打幾個字，拉幾個箭頭，或者圈起來，塗螢光筆之類，inkScape做這種事太慢，小畫家太蠢，然後有些重點錄個短影片似乎有必要，這種需求的螢幕錄影開個OBS又太花時間，綜合以上，快速摸索了幾個軟體，除了目前固定使用的 Share X 外，也推薦 PicPick 給習慣簡單介面的人 。 以下是這兩款的重點與心得
 PicPick https://picpick.app/zh-tw/download
+(2023/9/24補充，不建議購買，朋友買了詢問問題，從沒收到回覆，這個售後售後&amp;hellip;)
    可自訂快速鍵 有免安裝版本 (個人偏好) 擷圖：視窗 / 局部 / 捲動視窗長擷圖 自帶圖片編輯器，加字加箭頭加步驟符號對話框等。 錄影：視窗 / 局部，沒有影片編輯器。 個人使用免費，商用需購買，有分訂閱與買斷。 可設定上傳雲端分享 (沒用到這個功能)  優點：會用 office 感覺就能上手，畫面有點像，元件漂亮不易手殘把畫面弄很亂。</description>
     </item>
     
