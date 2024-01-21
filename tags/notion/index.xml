@@ -5,7 +5,22 @@
     <link>https://rolingchen.github.io/tags/notion/</link>
     <description>Recent content in Notion on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Jun 2022 17:17:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/notion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jan 2024 10:25:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/notion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自學日文用 Notion 做筆記</title>
+      <link>https://rolingchen.github.io/blog/240121_notion/</link>
+      <pubDate>Sun, 21 Jan 2024 10:25:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/240121_notion/</guid>
+      <description>推薦用 Notion 做筆記，因為電子筆記有幾個優點：
+  聽的速度比看的速度快。Notion 可以直接播放音檔，讓你不用再跳出 app 找音檔。
+  可以用連結把相關的筆記串在一起。這樣你就能很容易找到你要的內容。
+  搜尋功能可以讓你快速找到任何筆記，就像是個人資料庫一樣。如果你忘記文法使用方式，只要輸入關鍵字就能找到相關筆記，幫助你快速複習。
+  例如，像「限り」和「わけ」這種常見的詞，有許多不同的文法用法，如果不確定是哪一種，可以輸入「限り」或「わけ」來搜尋，就能列出所有相關的筆記，快速瀏覽確認是哪種意思，也能加深記憶。
+[補充]
+✎ link to pages (backlink) https://youtu.</description>
+    </item>
+    
     <item>
       <title>用 Notion API 搭配 iPhone 捷徑 快速輸入 Task</title>
       <link>https://rolingchen.github.io/blog/220618_notionshortcut/</link>
