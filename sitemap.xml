@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rolingchen.github.io/blog/240204_anki_recordvoiceautoadvance/</loc>
+    <lastmod>2024-02-04T20:30:25+08:00</lastmod>
+  </url><url>
     <loc>https://rolingchen.github.io/blog/</loc>
-    <lastmod>2024-01-21T10:25:25+08:00</lastmod>
+    <lastmod>2024-02-04T20:30:25+08:00</lastmod>
   </url><url>
     <loc>https://rolingchen.github.io/categories/</loc>
-    <lastmod>2024-01-21T10:25:25+08:00</lastmod>
+    <lastmod>2024-02-04T20:30:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rolingchen.github.io/tags/</loc>
+    <lastmod>2024-02-04T20:30:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rolingchen.github.io/tags/%E6%97%A5%E6%96%87/</loc>
+    <lastmod>2024-02-04T20:30:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rolingchen.github.io/</loc>
+    <lastmod>2024-02-04T20:30:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rolingchen.github.io/categories/%E8%AA%9E%E8%A8%80%E5%AD%B8%E7%BF%92/</loc>
+    <lastmod>2024-02-04T20:30:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/</loc>
+    <lastmod>2024-02-04T20:30:25+08:00</lastmod>
   </url><url>
     <loc>https://rolingchen.github.io/tags/notion/</loc>
     <lastmod>2024-01-21T10:25:25+08:00</lastmod>
   </url><url>
-    <loc>https://rolingchen.github.io/tags/</loc>
-    <lastmod>2024-01-21T10:25:25+08:00</lastmod>
-  </url><url>
-    <loc>https://rolingchen.github.io/tags/%E6%97%A5%E6%96%87/</loc>
-    <lastmod>2024-01-21T10:25:25+08:00</lastmod>
-  </url><url>
-    <loc>https://rolingchen.github.io/</loc>
-    <lastmod>2024-01-21T10:25:25+08:00</lastmod>
-  </url><url>
     <loc>https://rolingchen.github.io/blog/240121_notion/</loc>
-    <lastmod>2024-01-21T10:25:25+08:00</lastmod>
-  </url><url>
-    <loc>https://rolingchen.github.io/categories/%E8%AA%9E%E8%A8%80%E5%AD%B8%E7%BF%92/</loc>
     <lastmod>2024-01-21T10:25:25+08:00</lastmod>
   </url><url>
     <loc>https://rolingchen.github.io/categories/%E5%89%B5%E4%BD%9C/</loc>
@@ -69,9 +75,6 @@
     <lastmod>2023-08-02T21:00:25+08:00</lastmod>
   </url><url>
     <loc>https://rolingchen.github.io/tags/%E6%A2%97%E5%9C%96/</loc>
-    <lastmod>2023-08-02T21:00:25+08:00</lastmod>
-  </url><url>
-    <loc>https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/</loc>
     <lastmod>2023-08-02T21:00:25+08:00</lastmod>
   </url><url>
     <loc>https://rolingchen.github.io/blog/230729_screenshotsoftware/</loc>

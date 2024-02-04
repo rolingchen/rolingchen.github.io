@@ -5,7 +5,22 @@
     <link>https://rolingchen.github.io/tags/%E6%97%A5%E6%96%87/</link>
     <description>Recent content in 日文 on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Jan 2024 10:25:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/%E6%97%A5%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Feb 2024 20:30:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/%E6%97%A5%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anki 自訂上方列，錄自己的聲音並回放，自動播放下一張卡片</title>
+      <link>https://rolingchen.github.io/blog/240204_anki_recordvoiceautoadvance/</link>
+      <pubDate>Sun, 04 Feb 2024 20:30:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/240204_anki_recordvoiceautoadvance/</guid>
+      <description>前提：只有 Windows + iOS + iPad OS，其他系統不確定介面差異，Anki 已更新到最新版。
+最近撿回來用，才注意到 Anki 幾個很方便的功能：
+✎自訂工具列：可以將常用的功能設定到上方工具列，方便使用。
+✎錄音：可以錄下自己的發音，並且馬上播放，用來檢查自己的發音是否正確。
+✎自動前進：自動播放下一張卡片
+  [ 自訂工具列 ]：
+1.在 Anki 中，點選右上角的齒輪圖案。</description>
+    </item>
+    
     <item>
       <title>自學日文用 Notion 做筆記</title>
       <link>https://rolingchen.github.io/blog/240121_notion/</link>
