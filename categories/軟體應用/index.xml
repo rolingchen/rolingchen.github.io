@@ -5,7 +5,21 @@
     <link>https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/</link>
     <description>Recent content in 軟體應用 on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Feb 2024 20:30:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Mar 2024 18:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用 Share X ORC 辨識文字來查詢/筆記/或討論</title>
+      <link>https://rolingchen.github.io/blog/240324_sharex_ocr/</link>
+      <pubDate>Sun, 24 Mar 2024 18:00:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/240324_sharex_ocr/</guid>
+      <description>Share X 可以設定很多快捷鍵，OCR 文字辨識 是我很常用的一個功能，省時又偷懶，遇到單字或某一段話，有些是影片看到或圖片看到，或者純粹只是懶得點選反白，點一下設定好的快捷鍵就能圈選辨識文字，然後查詢或與AI討論
+個人是設定在極少使用的 tab 鍵
+快捷鍵設定方式：
+  新增辨識語言：
+ Share X 是利用電腦安裝的語言來辨識，
+新增語言 : 電腦下方工作列右側的語言點右鍵選擇 [設定]，或者電腦的 [設定]-[語言]</description>
+    </item>
+    
     <item>
       <title>Anki 自訂上方列，錄自己的聲音並回放，自動播放下一張卡片</title>
       <link>https://rolingchen.github.io/blog/240204_anki_recordvoiceautoadvance/</link>
