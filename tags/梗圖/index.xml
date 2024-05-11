@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Aug 2023 21:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/tags/%E6%A2%97%E5%9C%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Share X 設定一：改中文介面, 淺色模式, 錄影為什麼沒有聲音</title>
+      <title>ShareX 設定：改中文介面, 淺色模式, 錄影為什麼沒有聲音</title>
       <link>https://rolingchen.github.io/blog/230802_sharex_setting/</link>
       <pubDate>Wed, 02 Aug 2023 21:00:25 +0800</pubDate>
       
       <guid>https://rolingchen.github.io/blog/230802_sharex_setting/</guid>
-      <description>習慣用數值調整的人會覺得 Share X 的使用很有親切感，想記錄一下剛開始使用可能會想知道的設定
+      <description>習慣用數值調整的人會覺得 ShareX 的使用很有親切感，想記錄一下剛開始使用可能會想知道的設定
 改成中文
   點 Applicatoin Setting General 選項的第一個預設是自動(英文)，下拉可選繁體中文。  深色模式/淺色模式
  螢幕錄影沒有聲音的解決方式
@@ -20,12 +20,12 @@
     </item>
     
     <item>
-      <title>免安裝 易用且功能強大的 擷圖、錄影、備註集大成軟體 Share X</title>
+      <title>免安裝 易用且功能強大的 擷圖、錄影、備註集大成軟體 ShareX</title>
       <link>https://rolingchen.github.io/blog/230729_screenshotsoftware/</link>
       <pubDate>Sat, 29 Jul 2023 21:00:25 +0800</pubDate>
       
       <guid>https://rolingchen.github.io/blog/230729_screenshotsoftware/</guid>
-      <description>前陣子瘋狂想在短時間從N5唸到N3，目前終於來到N3尾，學習的媒介是Youtube影片，筆記用 Notion, 開始沒多久就有想在老師的板書上註解或者自行補充什麼的想法，很想在圖片上打幾個字，拉幾個箭頭，或者圈起來，塗螢光筆之類，inkScape做這種事太慢，小畫家太蠢，然後有些重點錄個短影片似乎有必要，這種需求的螢幕錄影開個OBS又太花時間，綜合以上，快速摸索了幾個軟體，後來固定使用 Share X 。 Share X https://getsharex.com/
+      <description>前陣子瘋狂想在短時間從N5唸到N3，目前終於來到N3尾，學習的媒介是Youtube影片，筆記用 Notion, 開始沒多久就有想在老師的板書上註解或者自行補充什麼的想法，很想在圖片上打幾個字，拉幾個箭頭，或者圈起來，塗螢光筆之類，inkScape做這種事太慢，小畫家太蠢，然後有些重點錄個短影片似乎有必要，這種需求的螢幕錄影開個OBS又太花時間，綜合以上，快速摸索了幾個軟體，後來固定使用 ShareX 。 ShareX https://getsharex.com/
   可自訂快速鍵 有免安裝版本 (個人偏好) 擷圖範圍：作用中視窗 / 自訂範圍 / 捲動視窗長擷圖 自帶圖片編輯器，輕易加字加箭頭加步驟符號，可自定表情圖案等等。 可存透明PNG (很多沒有這個功能) 錄影：可選擇視窗 / 自訂範圍，沒有影片編輯器。 錄影可以存成 gif 檔案，很適合做迷因圖 免費。 可設定上傳雲端分享 (用不到，都直接關掉這功能)  優點：可以自訂的選項超級多，每次想到需要的功能，發現內建調整一下就可以，真是ワクワク。</description>
     </item>
     
