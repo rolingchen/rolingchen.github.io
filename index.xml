@@ -7,6 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 04 May 2024 12:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>EasyCanvs 讓 iPad 變成電腦的副屏跟螢幕手繪版</title>
+      <link>https://rolingchen.github.io/blog/240601_easycanvas/</link>
+      <pubDate>Sat, 04 May 2024 12:00:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/240601_easycanvas/</guid>
+      <description>EasyCanvas 是一款可將 iPad 或安卓平板連接到 PC 或 Mac，當作繪圖板使用的應用程式。
+https://www.easynlight.com/en/easycanvas
+電腦版需從網站下載軟體並安裝，平板則是APP，提供 3 天試用期，之後可一次性買斷，價格為 390 元，首次連接需使用數據線，之後有線或無線皆可連接（需在同一 WiFi 下）
+適合無法適應傳統繪圖板，手邊有平板，要用的軟體剛好又是 Mac 或 Windows 才有。</description>
+    </item>
+    
+    <item>
       <title>利用 mp3DirectCut 編輯聽力練習用 MP3</title>
       <link>https://rolingchen.github.io/blog/240504_mp3/</link>
       <pubDate>Sat, 04 May 2024 12:00:25 +0800</pubDate>
@@ -105,7 +117,7 @@
     </item>
     
     <item>
-      <title>ShareX 設定：改中文介面, 淺色模式, 錄影為什麼沒有聲音</title>
+      <title>ShareX 設定：改中文介面, 淺色模式, 錄影為什麼沒有聲音或聲音太小</title>
       <link>https://rolingchen.github.io/blog/230802_sharex_setting/</link>
       <pubDate>Wed, 02 Aug 2023 21:00:25 +0800</pubDate>
       
@@ -1267,16 +1279,8 @@ Procreate繪製，Procreate本身就有匯出背景透明PNG的格式，容易�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rolingchen.github.io/about/</guid>
-      <description>喜歡閱讀心理、科普、科技、筆記術、理財書籍，最近兩年迷上極簡，正在努力中，偶而畫圖</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://rolingchen.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rolingchen.github.io/contact/</guid>
-      <description></description>
+      <description>喜歡閱讀心理、科普、科技、筆記術、理財書籍，最近兩年迷上極簡，正在努力中，偶而畫圖
+聯繫方式：[osorosiyo@gmail.com]</description>
     </item>
     
     <item>

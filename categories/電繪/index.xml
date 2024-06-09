@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電繪 on 極簡筆記</title>
+    <link>https://rolingchen.github.io/categories/%E9%9B%BB%E7%B9%AA/</link>
+    <description>Recent content in 電繪 on 極簡筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 May 2024 12:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/categories/%E9%9B%BB%E7%B9%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EasyCanvs 讓 iPad 變成電腦的副屏跟螢幕手繪版</title>
+      <link>https://rolingchen.github.io/blog/240601_easycanvas/</link>
+      <pubDate>Sat, 04 May 2024 12:00:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/240601_easycanvas/</guid>
+      <description>EasyCanvas 是一款可將 iPad 或安卓平板連接到 PC 或 Mac，當作繪圖板使用的應用程式。
+https://www.easynlight.com/en/easycanvas
+電腦版需從網站下載軟體並安裝，平板則是APP，提供 3 天試用期，之後可一次性買斷，價格為 390 元，首次連接需使用數據線，之後有線或無線皆可連接（需在同一 WiFi 下）
+適合無法適應傳統繪圖板，手邊有平板，要用的軟體剛好又是 Mac 或 Windows 才有。</description>
+    </item>
+    
+  </channel>
+</rss>
