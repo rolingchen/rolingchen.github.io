@@ -5,20 +5,11 @@
     <link>https://rolingchen.github.io/categories/</link>
     <description>Recent content in Categories on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 May 2024 12:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>繪圖</title>
-      <link>https://rolingchen.github.io/categories/%E7%B9%AA%E5%9C%96/</link>
-      <pubDate>Sat, 04 May 2024 12:00:25 +0800</pubDate>
-      
-      <guid>https://rolingchen.github.io/categories/%E7%B9%AA%E5%9C%96/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 15 Jun 2024 12:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>語言學習</title>
       <link>https://rolingchen.github.io/categories/%E8%AA%9E%E8%A8%80%E5%AD%B8%E7%BF%92/</link>
-      <pubDate>Sat, 04 May 2024 12:00:25 +0800</pubDate>
+      <pubDate>Sat, 15 Jun 2024 12:00:25 +0800</pubDate>
       
       <guid>https://rolingchen.github.io/categories/%E8%AA%9E%E8%A8%80%E5%AD%B8%E7%BF%92/</guid>
       <description></description>
@@ -27,9 +18,18 @@
     <item>
       <title>軟體應用</title>
       <link>https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/</link>
-      <pubDate>Sat, 04 May 2024 12:00:25 +0800</pubDate>
+      <pubDate>Sat, 15 Jun 2024 12:00:25 +0800</pubDate>
       
       <guid>https://rolingchen.github.io/categories/%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>繪圖</title>
+      <link>https://rolingchen.github.io/categories/%E7%B9%AA%E5%9C%96/</link>
+      <pubDate>Sat, 04 May 2024 12:00:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/categories/%E7%B9%AA%E5%9C%96/</guid>
       <description></description>
     </item>
     

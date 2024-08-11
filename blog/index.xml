@@ -5,7 +5,20 @@
     <link>https://rolingchen.github.io/blog/</link>
     <description>Recent content in Blog on 極簡筆記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 May 2024 12:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 12:00:25 +0800</lastBuildDate><atom:link href="https://rolingchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自學日文的一點心得 - Youtube 出口日語 &#43; ChatGPT</title>
+      <link>https://rolingchen.github.io/blog/240615_japanese/</link>
+      <pubDate>Sat, 15 Jun 2024 12:00:25 +0800</pubDate>
+      
+      <guid>https://rolingchen.github.io/blog/240615_japanese/</guid>
+      <description>去年三月中，到今年六月中，出口日語 N5-N1總共599個教學影片認真地看完了!!!
+寫一下這段時間的心得：
+  看完全部的文型，聯想到，多數都先教動詞的ます形，禮貌外，可能跟使用率高有關，全部文型中有很大比例都是搭配ます形。
+  ChatGPT 的出現對於自學者來說是很大的突破，日文是一種很講究 ニュアンス(nuance) 的語言，有很多微妙的情感變化，當我困惑時，我會給它原文與我改寫認為意思其實可以通的句子，問 ChatGPT 兩種說法的差異，它會很認真解釋語感差異，再請他列出強弱與場合差異的類似用法，整理資料它很強，但不要盡信! 自己仍要再做一下審核。
+  利用 ChatGPT 語音了解自己的發音，它的語音辨識能力很強，促音不明顯，濁清音混淆都聽得出來。 為什麼我知道?</description>
+    </item>
+    
     <item>
       <title>EasyCanvs 讓 iPad 變成電腦的副屏跟繪圖螢幕</title>
       <link>https://rolingchen.github.io/blog/240601_easycanvas/</link>
